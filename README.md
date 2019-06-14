@@ -15,7 +15,7 @@ pip install Flask
 
 ## Running the test
 
-![Screenshot](test.PNG)
+![Screenshot](T.PNG)
 
 ## Deployment
 
