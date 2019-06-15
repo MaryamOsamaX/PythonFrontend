@@ -23,3 +23,7 @@ Deployed on [now-Zeit](https://zeit.co/now)
 on the link:
 
 https://setofnums-pyfront.maryosama.now.sh/
+
+OR on this for another API:
+
+https://apilook.maryosama.now.sh
