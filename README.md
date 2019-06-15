@@ -22,8 +22,8 @@ pip install Flask
 Deployed on [now-Zeit](https://zeit.co/now) 
 on the link:
 
-https://setofnums-pyfront.maryosama.now.sh/
+https://setofnums-pyfront.maryosama.now.sh/      ///input of number set 1,2,3
 
 OR on this for another API:
 
-https://apilook.maryosama.now.sh
+https://apilook.maryosama.now.sh                 ///input of number set 1 2 3
